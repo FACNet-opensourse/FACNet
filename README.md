@@ -41,7 +41,7 @@ I received a 20-hour VAC Live cooldown after a Wingman match where I won 4-2 wit
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/FACNet.git
+git clone https://github.com/FACNet-opensourse/FACNet.git
 cd FACNet
 
 # Install dependencies
