@@ -1,6 +1,6 @@
 # FACNet (Fixed Anti-Cheat Network)
 
-![FACNet Logo](facnet_logo.png)
+![FACNet Logo](bannerfacnet.png)
 
 An open-source CS2 demo analyzer that uses machine learning to detect aimbot kinematics and reduce false positives in anti-cheat systems.
 
